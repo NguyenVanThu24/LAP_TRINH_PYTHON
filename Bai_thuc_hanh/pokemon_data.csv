@@ -1,0 +1,151 @@
+number,height,weight,name,type,ThumbnailImage
+650,4,90,Chespin,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png
+651,7,290,Quilladin,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png
+652,16,900,Chesnaught,"grass, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png
+653,4,94,Fennekin,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png
+654,10,145,Braixen,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png
+655,15,390,Delphox,"fire, psychic",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png
+656,3,70,Froakie,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png
+657,6,109,Frogadier,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png
+658,15,400,Greninja,"water, dark",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png
+659,4,50,Bunnelby,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png
+660,10,424,Diggersby,"normal, ground",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png
+263,4,175,Zigzagoon,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png
+264,5,325,Linoone,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png
+661,3,17,Fletchling,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png
+662,7,160,Fletchinder,"fire, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/662.png
+663,12,245,Talonflame,"fire, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png
+16,3,18,Pidgey,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+17,11,300,Pidgeotto,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png
+18,15,395,Pidgeot,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+664,3,25,Scatterbug,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png
+665,3,84,Spewpa,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png
+666,12,170,Vivillon,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png
+10,3,29,Caterpie,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png
+11,7,99,Metapod,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png
+12,11,320,Butterfree,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+13,3,32,Weedle,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png
+14,6,100,Kakuna,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png
+15,10,295,Beedrill,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+511,6,105,Pansage,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png
+512,11,305,Simisage,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png
+513,6,110,Pansear,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png
+514,10,280,Simisear,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png
+515,6,135,Panpour,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png
+516,10,290,Simipour,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png
+172,3,20,Pichu,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png
+25,4,60,Pikachu,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
+26,8,300,Raichu,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+399,5,200,Bidoof,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png
+400,10,315,Bibarel,"normal, water",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png
+206,15,140,Dunsparce,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png
+298,2,20,Azurill,"normal, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png
+183,4,85,Marill,"water, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png
+184,8,285,Azumarill,"water, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png
+412,2,34,Burmy,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png
+413,5,65,Wormadam-plant,"bug, grass",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png
+414,9,233,Mothim,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png
+283,5,17,Surskit,"bug, water",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png
+284,8,36,Masquerain,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png
+129,9,100,Magikarp,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png
+130,65,2350,Gyarados,"water, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png
+341,6,115,Corphish,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png
+342,11,328,Crawdaunt,"water, dark",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png
+118,6,150,Goldeen,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png
+119,13,390,Seaking,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png
+318,8,208,Carvanha,"water, dark",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png
+319,18,888,Sharpedo,"water, dark",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png
+667,6,135,Litleo,"fire, normal",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png
+668,15,815,Pyroar,"fire, normal",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png
+54,8,196,Psyduck,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png
+55,17,766,Golduck,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
+83,8,150,Farfetchd,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png
+447,7,202,Riolu,fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png
+448,12,540,Lucario,"fighting, steel",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png
+280,4,66,Ralts,"psychic, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png
+281,8,202,Kirlia,"psychic, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png
+282,16,484,Gardevoir,"psychic, fairy",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png
+475,16,520,Gallade,"psychic, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png
+669,1,1,Flabebe,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png
+670,2,9,Floette,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png
+671,11,100,Florges,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png
+406,2,12,Budew,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png
+315,3,20,Roselia,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png
+407,9,145,Roserade,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png
+165,10,108,Ledyba,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png
+166,14,356,Ledian,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png
+415,3,55,Combee,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png
+416,12,385,Vespiquen,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png
+300,6,110,Skitty,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png
+301,11,326,Delcatty,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png
+1,7,69,Bulbasaur,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+2,10,130,Ivysaur,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+3,20,1000,Venusaur,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+4,6,85,Charmander,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+5,11,190,Charmeleon,fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+6,17,905,Charizard,"fire, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+7,5,90,Squirtle,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+8,10,225,Wartortle,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+9,16,855,Blastoise,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+672,9,310,Skiddo,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png
+673,17,910,Gogoat,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png
+674,6,80,Pancham,fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png
+675,21,1360,Pangoro,"fighting, dark",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png
+676,12,280,Furfrou,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png
+84,14,392,Doduo,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png
+85,18,852,Dodrio,"normal, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png
+311,4,42,Plusle,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png
+312,4,42,Minun,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png
+316,4,103,Gulpin,poison,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png
+317,17,800,Swalot,poison,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png
+559,6,118,Scraggy,"dark, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png
+560,11,300,Scrafty,"dark, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png
+63,9,195,Abra,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png
+64,13,565,Kadabra,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png
+65,15,480,Alakazam,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+43,5,54,Oddish,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png
+44,8,86,Gloom,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+45,12,186,Vileplume,"grass, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png
+182,4,58,Bellossom,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png
+161,8,60,Sentret,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png
+162,18,325,Furret,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png
+290,5,55,Nincada,"bug, ground",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png
+291,8,120,Ninjask,"bug, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png
+292,8,12,Shedinja,"bug, ghost",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png
+677,3,35,Espurr,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png
+678,6,85,Meowstic-male,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png
+352,10,220,Kecleon,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png
+679,8,20,Honedge,"steel, ghost",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png
+680,8,45,Doublade,"steel, ghost",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png
+681,17,530,Aegislash-shield,"steel, ghost",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png
+543,4,53,Venipede,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png
+544,12,585,Whirlipede,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png
+545,25,2005,Scolipede,"bug, poison",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png
+531,11,310,Audino,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png
+235,12,580,Smeargle,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png
+453,7,230,Croagunk,"poison, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png
+454,13,444,Toxicroak,"poison, fighting",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png
+580,5,55,Ducklett,"water, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png
+581,13,242,Swanna,"water, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png
+682,2,5,Spritzee,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png
+683,8,155,Aromatisse,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png
+684,4,35,Swirlix,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png
+685,8,50,Slurpuff,fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png
+313,7,177,Volbeat,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png
+314,6,177,Illumise,bug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png
+187,4,5,Hoppip,"grass, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png
+188,6,10,Skiploom,"grass, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png
+189,8,30,Jumpluff,"grass, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png
+446,6,1050,Munchlax,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png
+143,21,4600,Snorlax,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+293,6,163,Whismur,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png
+294,10,405,Loudred,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png
+295,15,840,Exploud,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png
+307,6,112,Meditite,"fighting, psychic",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png
+308,13,315,Medicham,"fighting, psychic",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png
+41,8,75,Zubat,"poison, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png
+42,16,550,Golbat,"poison, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png
+169,18,750,Crobat,"poison, flying",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png
+610,6,180,Axew,dragon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png
+611,10,360,Fraxure,dragon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png
+612,18,1055,Haxorus,dragon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png
