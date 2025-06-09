@@ -1,0 +1,17 @@
+Câu hỏi 1
+What is 2+2?
+A. 1
+B. 2
+C. 3
+D. 4
+Đáp án: D
+Giải thích: 2+2=4
+
+Câu hỏi 2
+What is the capital of France?
+A. Florida
+B. Paris
+C. London
+D. Berlin
+Đáp án: B
+Giải thích: Paris is the capital of France
