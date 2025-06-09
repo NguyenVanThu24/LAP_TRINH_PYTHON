@@ -1,5 +1,9 @@
 # <p align="center">LAP_TRINH_PYTHON</p>
 
+# <p align="center">***Link QR Youtube***</p>
+## Đường Link:
+## Mã QR Youtube:
+
 # <p align="center">***Thực hành buổi 06/05/2025***</p>
 
 ## Hình ảnh kết quả sau khi hoàn thiện:
