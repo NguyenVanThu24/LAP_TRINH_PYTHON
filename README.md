@@ -1,10 +1,11 @@
 # <p align="center">LAP_TRINH_PYTHON</p>
 
-# <p align="center">***Link QR Youtube***</p>
-## Đường Link:
+# ***Link QR Youtube:***
+## Đường Link: https://www.youtube.com/watch?v=b87QFRwV0hw
 ## Mã QR Youtube:
+![website_qrcode](https://github.com/user-attachments/assets/5b281be1-1108-442f-8e8f-215471573d3e)
 
-# <p align="center">***Thực hành buổi 06/05/2025***</p>
+# ***Thực hành buổi 06/05/2025***
 
 ## Hình ảnh kết quả sau khi hoàn thiện:
 ![Ảnh chụp màn hình 2025-05-07 204217](https://github.com/user-attachments/assets/a1c58dfe-632a-4af3-b8b7-521bfac57fdc)
